@@ -1,4 +1,4 @@
-# This is an assignment from our grad course 'Introduction to Machine Learning' at UW during Fall 2021. Due credit goes to the instructor and TA's of this course.
+# This is an assignment from our grad course 'Introduction to Machine Learning' at UW during Fall 2021. Due credit goes to the Instructor and TA's of this course.
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
